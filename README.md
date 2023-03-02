@@ -1,13 +1,13 @@
 # tz_flask_20230302_stream
 
 ### place files like this
-  app.py
-  temnplates/index.html
+  * app.py
+  * temnplates/index.html
 
 ### how to run in the terminal
-  export FLASK_APP=app.py
-  export FLASK_ENV=development
-  flask run
+  * export FLASK_APP=app.py
+  * export FLASK_ENV=development
+  * flask run
 
 ### how to stop in the terminal
-  ctrl+C
+  * ctrl+C

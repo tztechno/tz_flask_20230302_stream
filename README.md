@@ -2,7 +2,7 @@
 
 ### place files like this
   * app.py
-  * temnplates/index.html
+  * templates/index.html
 
 ### how to run in the terminal
   * export FLASK_APP=app.py

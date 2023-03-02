@@ -1,5 +1,7 @@
 # tz_flask_20230302_stream
 
+when run app.py, camera start and realtime movie shown on the index.html
+
 ### place files like this
   * app.py
   * templates/index.html
